@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bakery</string>
+
+    <string name="create_account">Create account</string>
+
+    <string name="forgot_password">Forgot password</string>
+
+    <string name="error_password">Password must contain at least 8 characters.</string>
+
+    <string name="user_name">User name</string>
+
+    <string name="password">Password</string>
+
+    <string name="tree_coffee">Tree Coffee</string>
+
+    <string name="next">Next</string>
+
+    <string name="cancel">Cancel</string>
+</resources>
